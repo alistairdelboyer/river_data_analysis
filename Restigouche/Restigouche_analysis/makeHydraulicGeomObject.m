@@ -1,0 +1,99 @@
+hydraulicGeom.img319.Tamb = 19.648;
+hydraulicGeom.img319.rplume = 51.0317;
+hydraulicGeom.img319.rriver = 110.6540;
+hydraulicGeom.img319.Ua = 0.2348;
+hydraulicGeom.img319.Qriver = 5451.504;
+hydraulicGeom.img319.depth = 3.1550;
+hydraulicGeom.img319.Qplume = hydraulicGeom.img319.rplume * hydraulicGeom.img319.Qriver/hydraulicGeom.img319.rriver;
+hydraulicGeom.img319.wplume = hydraulicGeom.img319.Qplume/(hydraulicGeom.img319.depth * hydraulicGeom.img319.rplume);
+hydraulicGeom.img319.lm = hydraulicGeom.img319.rplume * hydraulicGeom.img319.wplume/hydraulicGeom.img319.Ua;
+
+hydraulicGeom.img765.Tamb = 19.949;
+hydraulicGeom.img765.rplume = 38.701;
+hydraulicGeom.img765.rriver = 107.838;
+hydraulicGeom.img765.Ua = 0.2339;
+hydraulicGeom.img765.Qriver = 5342.915;
+hydraulicGeom.img765.depth = 3.1380;
+hydraulicGeom.img765.Qplume = hydraulicGeom.img765.rplume * hydraulicGeom.img765.Qriver/hydraulicGeom.img765.rriver;
+hydraulicGeom.img765.wplume = hydraulicGeom.img765.Qplume/(hydraulicGeom.img765.depth * hydraulicGeom.img765.rplume);
+hydraulicGeom.img765.lm = hydraulicGeom.img765.rplume * hydraulicGeom.img765.wplume/hydraulicGeom.img765.Ua;
+
+hydraulicGeom.img903.Tamb = 19.7625;
+hydraulicGeom.img903.rplume = 4.3381;
+hydraulicGeom.img903.rriver = 94.723;
+hydraulicGeom.img903.Ua = 0.2327;
+hydraulicGeom.img903.Qriver = 5206.376;
+hydraulicGeom.img903.depth = 3.1162;
+hydraulicGeom.img903.Qplume = hydraulicGeom.img903.rplume * hydraulicGeom.img903.Qriver/hydraulicGeom.img903.rriver;
+hydraulicGeom.img903.wplume = hydraulicGeom.img903.Qplume/(hydraulicGeom.img903.depth * hydraulicGeom.img903.rplume);
+hydraulicGeom.img903.lm = hydraulicGeom.img903.rplume * hydraulicGeom.img903.wplume/hydraulicGeom.img903.Ua;
+
+hydraulicGeom.img970.Tamb = 20.0931;
+hydraulicGeom.img970.rplume = 9.7203;
+hydraulicGeom.img970.rriver = 154.957;
+hydraulicGeom.img970.Ua = 0.2327;
+hydraulicGeom.img970.Qriver = 5202.796;
+hydraulicGeom.img970.depth = 3.1156;
+hydraulicGeom.img970.Qplume = hydraulicGeom.img970.rplume * hydraulicGeom.img970.Qriver/hydraulicGeom.img970.rriver;
+hydraulicGeom.img970.wplume = hydraulicGeom.img970.Qplume/(hydraulicGeom.img970.depth * hydraulicGeom.img970.rplume);
+hydraulicGeom.img970.lm = hydraulicGeom.img970.rplume * hydraulicGeom.img970.wplume/hydraulicGeom.img970.Ua;
+
+hydraulicGeom.img985.Tamb = 19.7083;
+hydraulicGeom.img985.rplume = 12.2645;
+hydraulicGeom.img985.rriver = 89.2164;
+hydraulicGeom.img985.Ua = 0.2318;
+hydraulicGeom.img985.Qriver = 5100.196;
+hydraulicGeom.img985.depth = 3.0990;
+hydraulicGeom.img985.Qplume = hydraulicGeom.img985.rplume * hydraulicGeom.img985.Qriver/hydraulicGeom.img985.rriver;
+hydraulicGeom.img985.wplume = hydraulicGeom.img985.Qplume/(hydraulicGeom.img985.depth * hydraulicGeom.img985.rplume);
+hydraulicGeom.img985.lm = hydraulicGeom.img985.rplume * hydraulicGeom.img985.wplume/hydraulicGeom.img985.Ua;
+
+hydraulicGeom.img1047.Tamb = 19.8769;
+hydraulicGeom.img1047.rplume = 5.8524;
+hydraulicGeom.img1047.rriver = 110.2671;
+hydraulicGeom.img1047.Ua = 0.2316;
+hydraulicGeom.img1047.Qriver = 5083.759;
+hydraulicGeom.img1047.depth = 3.0963;
+hydraulicGeom.img1047.Qplume = hydraulicGeom.img1047.rplume * hydraulicGeom.img1047.Qriver/hydraulicGeom.img1047.rriver;
+hydraulicGeom.img1047.wplume = hydraulicGeom.img1047.Qplume/(hydraulicGeom.img1047.depth * hydraulicGeom.img1047.rplume);
+hydraulicGeom.img1047.lm = hydraulicGeom.img1047.rplume * hydraulicGeom.img1047.wplume/hydraulicGeom.img1047.Ua;
+
+hydraulicGeom.img1129.Tamb = 20.1111;
+hydraulicGeom.img1129.rplume = 8.4869;
+hydraulicGeom.img1129.rriver = 57.906;
+hydraulicGeom.img1129.Ua = 0.2316;
+hydraulicGeom.img1129.Qriver = 5075.979;
+hydraulicGeom.img1129.depth = 3.0950;
+hydraulicGeom.img1129.Qplume = hydraulicGeom.img1129.rplume * hydraulicGeom.img1129.Qriver/hydraulicGeom.img1129.rriver;
+hydraulicGeom.img1129.wplume = hydraulicGeom.img1129.Qplume/(hydraulicGeom.img1129.depth * hydraulicGeom.img1129.rplume);
+hydraulicGeom.img1129.lm = hydraulicGeom.img1129.rplume * hydraulicGeom.img1129.wplume/hydraulicGeom.img1129.Ua;
+
+hydraulicGeom.img1154.Tamb = 19.961;
+hydraulicGeom.img1154.rplume = 6.3925;
+hydraulicGeom.img1154.rriver = 61.6386;
+hydraulicGeom.img1154.Ua = 0.2313;
+hydraulicGeom.img1154.Qriver = 5050.799;
+hydraulicGeom.img1154.depth = 3.0909;
+hydraulicGeom.img1154.Qplume = hydraulicGeom.img1154.rplume * hydraulicGeom.img1154.Qriver/hydraulicGeom.img1154.rriver;
+hydraulicGeom.img1154.wplume = hydraulicGeom.img1154.Qplume/(hydraulicGeom.img1154.depth * hydraulicGeom.img1154.rplume);
+hydraulicGeom.img1154.lm = hydraulicGeom.img1154.rplume * hydraulicGeom.img1154.wplume/hydraulicGeom.img1154.Ua;
+
+hydraulicGeom.img1312.Tamb = 19.7384;
+hydraulicGeom.img1312.rplume = 1.9441;
+hydraulicGeom.img1312.rriver = 103.7235;
+hydraulicGeom.img1312.Ua = 0.2297;
+hydraulicGeom.img1312.Qriver = 4870.808;
+hydraulicGeom.img1312.depth = 3.0609;
+hydraulicGeom.img1312.Qplume = hydraulicGeom.img1312.rplume * hydraulicGeom.img1312.Qriver/hydraulicGeom.img1312.rriver;
+hydraulicGeom.img1312.wplume = hydraulicGeom.img1312.Qplume/(hydraulicGeom.img1312.depth * hydraulicGeom.img1312.rplume);
+hydraulicGeom.img1312.lm = hydraulicGeom.img1312.rplume * hydraulicGeom.img1312.wplume/hydraulicGeom.img1312.Ua;
+
+hydraulicGeom.img1596.Tamb = 20.4166;
+hydraulicGeom.img1596.rplume = 29.0499;
+hydraulicGeom.img1596.rriver = 61.4855;
+hydraulicGeom.img1596.Ua = 0.2291;
+hydraulicGeom.img1596.Qriver = 4798.797;
+hydraulicGeom.img1596.depth = 3.0487;
+hydraulicGeom.img1596.Qplume = hydraulicGeom.img1596.rplume * hydraulicGeom.img1596.Qriver/hydraulicGeom.img1596.rriver;
+hydraulicGeom.img1596.wplume = hydraulicGeom.img1596.Qplume/(hydraulicGeom.img1596.depth * hydraulicGeom.img1596.rplume);
+hydraulicGeom.img1596.lm = hydraulicGeom.img1596.rplume * hydraulicGeom.img1596.wplume/hydraulicGeom.img1596.Ua;
